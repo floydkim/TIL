@@ -1,4 +1,8 @@
-
+---
+title: 'PWA알못들을 위한 Progressive Web App 설명서'
+date: 2019-05-24 19:59:12
+category: development
+---
 # PWA알못들을 위한 Progressive Web App 설명서
 원제: An explanation of Progressive Web Apps for the non-PWA crowd
 [이 글](https://medium.freecodecamp.org/an-explanation-of-progressive-web-apps-for-the-non-pwa-crowd-8a400e275ea1)의 (의역을 포함한) 번역입니다.
