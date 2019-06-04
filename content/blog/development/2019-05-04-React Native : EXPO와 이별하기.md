@@ -3,6 +3,7 @@ title: 'React Native : EXPO와 이별하기'
 date: 2019-05-04 19:59:12
 category: development
 ---
+
 ![expo logo](https://lh3.googleusercontent.com/7mXyrwDonIBGjvhfM7pvRtZ8ny_JEHsh51BFE-PYgoL9xqw1UNG1_Ty-HIO-UfJ4LrUARBzbGQc=s300)
 
 React-Native를 이용해 모바일 앱을 만들 때, EXPO는 개발자가 앱 코딩을 빨리 시작할 수 있도록 도와줍니다.

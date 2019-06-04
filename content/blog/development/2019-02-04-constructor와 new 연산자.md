@@ -1,3 +1,10 @@
+---
+title: 'constructor와 new 연산자'
+date: 2019-02-04 19:59:12
+category: development
+---
+
+
 원래는 prototype을 이해하려고 읽었던 내용인데 `prototype 객체`와 `__proto__`까지 모두 한 포스트에 담자니 너무 글이 길어지고, 내용이 prototype 자체와는 약간 벗어나 있다고 생각되어 분리해 올립니다.  
 그리고 constructor와 함께 자주 사용되는 new 연산자의 동작을 먼저 알아보겠습니다.
 
