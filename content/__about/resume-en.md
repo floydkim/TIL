@@ -4,10 +4,8 @@ date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# 웹 개발자 김민창입니다
 
-<div align="center">
+[이력서](https://bit.ly/floydkim)를 보고 싶으시다면, 링크를 눌러주세요. Google Docs 문서로 연결됩니다.
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
-
-</div>
+편하게 연락해주세요 😀

@@ -1,5 +1,7 @@
 // app
-$theme-gradient: linear-gradient(72deg, #291e95, #cc007a);
+$theme-gradient: linear-gradient(45deg, #a7ce3e, #ffd900, #ffd900);
+// $light-theme-gradient: linear-gradient(45deg, black);
+// $dark-theme-gradient: linear-gradient(45deg, white);
 $top-header-text-color: #fff;
 
 /**
@@ -19,8 +21,8 @@ $middle-gray: #7d7d7d;
 $light-gray: #aaa;
 
 // blog-templates
-$navigator-text-color: #cc007a;
-$navigator-background-color: #fceff7;
+$navigator-text-color: #ac7e00;
+$navigator-background-color: #fcf9ef;
 $blockquote-text-color: #999;
 
 // code
