@@ -1,5 +1,5 @@
 ---
-title: Daily Algorithm
+title: 2019-05-23 Daily Algorithm
 date: 2019-05-23 20:57:21
 category: TIL
 ---
