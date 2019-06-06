@@ -3,8 +3,11 @@ title: 'React Native : EXPO와 이별하기'
 date: 2019-05-04 19:59:12
 category: development
 ---
+<div align="center">
 
 ![expo logo](https://lh3.googleusercontent.com/7mXyrwDonIBGjvhfM7pvRtZ8ny_JEHsh51BFE-PYgoL9xqw1UNG1_Ty-HIO-UfJ4LrUARBzbGQc=s300)
+
+</div>
 
 React-Native를 이용해 모바일 앱을 만들 때, EXPO는 개발자가 앱 코딩을 빨리 시작할 수 있도록 도와줍니다.
 
@@ -17,7 +20,11 @@ EXPO 없이 React-Native만으로 개발을 시작하려면 Xcode나 Android Stu
 
 ## EXPO의 동작 환경
 
+<div align="center">
+
 ![expo 동작 환경](https://lh3.googleusercontent.com/uI0fYPxqo0urSM60u_FbYdGwJmSspF5odKhn-RQAQufCtbJG5j9aFxuPqJ_6SXcFgCfBl2IfWVw)
+
+</div>
 
 우선 어떤 구조로 EXPO가 동작하는지 살펴보겠습니다.
 
@@ -32,7 +39,13 @@ EXPO 공식문서를 통해 위 사실을 알 수 있었습니다.
 > " EXPO 안에 들어가는 앱은 순수 JavaScript로 작성되고, 절대로 네이티브 iOS나 Android 레이어까지 내려가지 않는다. 이것은 EXPO의 핵심 철학이고, EXPO를 빠르게, 사용하기 좋게 만들어주는 부분이다. "
 
 ## EXPO 앱과 Native 앱의 차이
+
+<div align="center">
+
 ![EXPO와 Native App 비교](https://lh3.googleusercontent.com/cYu8NWNwEl8EaW7nqJZ342bG0o36GSdCgEqCkE_pHhB4llyDnXgKy_Tf_Gtp8lSEXr2BCYELkSw)
+
+</div>
+
 ##### (`꾹꾹이`는 제가 팀 프로젝트로 만들었던 앱의 이름입니다.)
 
 먼저 오른쪽에 있는 네이티브 앱인 카카오톡을 볼까요?
@@ -44,7 +57,12 @@ EXPO 공식문서를 통해 위 사실을 알 수 있었습니다.
 그러나 구현 가능한 기능의 범위가 EXPO에서 제공하는 기능들을 벗어날 수 없기 때문에, EXPO에서 지원하지 않는 Bluetooth 컨트롤이나, 네이티브 언어로 된 모듈을 이용하려 할 때 **eject** 명령을 사용하게 됩니다.
 
 ## $ expo eject
+
+<div align="center">
+
 ![expo eject](https://lh3.googleusercontent.com/nuTs6LdeiUJkrerF4jm78VzOreZ4BWnm6KRh8WM8n-k4-mF_3TOsV5ffbOQnK-TFhl43tC-hXCA)
+
+</div>
 
 eject를 하면 우리가 작성한 순수 JavaScript로 작성된 앱을 엑스포 모바일 클라이언트에서 꺼내줍니다. React-Native로만 개발하는 환경으로 변경되는 것입니다.
 결국, EXPO 클라이언트 없이 네이티브 환경에서 우리 앱이 동작하게 됩니다.
@@ -61,7 +79,11 @@ eject를 할 때, ExpoKit이라는 네이티브 라이브러리를 남겨놓으�
 한편, 상황에 따라서는 eject를 다시 돌이킬수도 있습니다. 공식문서에 방법이 소개되어 있는데, eject로 인해 소실된 일부 정보를 manual하게 다시 잡아주는 과정이 필요하며 어려움이 따릅니다.
 
 ## workflow with EXPO
+
+<div align="center">
+
 ![workflow with expo](https://lh3.googleusercontent.com/w7Ggise6EWgPjaUN5GPOOuagjCjifWTxTOu5bNGnu1XFkT4Nx8CLj9DG-apk2s9JdefLV8ozOco)
+</div>
 
 엑스포의 장점은 결국, 개발자의 생산성을 높이는데 있다고 생각합니다.
 
