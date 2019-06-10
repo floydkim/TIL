@@ -1,6 +1,11 @@
-# Daily Algorithm
-19-05-14
-### Codility
+---
+title: 2019-05-14 Daily Algorithm
+date: 2019-05-14 20:57:21
+category: TIL
+---
+2019-05-14
+
+## Codility
 A 배열은 다음 엘리먼트들로 이뤄져있다: 짝을 이루는 숫자들, 짝을 이루지 않는 하나의 숫자.
 
 짝을 이루지 않는 숫자를 리턴한다.

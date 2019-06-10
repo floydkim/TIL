@@ -1,3 +1,9 @@
+---
+title: 'JavaScript async-await'
+date: 2019-03-06 19:59:12
+category: development
+---
+
 # async - await 에 대해..
 실행 순서를 보장할 수 없는 비동기 요청을 처리하는 함수에 대해 순차적인 처리를 하기 위해서는
 요청에 응답이 온 후 콜백을 실행하도록 만들고,
@@ -8,7 +14,7 @@
 Promise를 사용하면 콜백 지옥 대신 .then() 체이닝을 이용해 덜 복잡하게 표현할 수 있다.
 
 await은 Promise를 위한 문법적 sugar다. 사람이 코드를 다루기 좋게 하는 목적임.
-async function 선언한 함수 안에서 await을 사용하면, 비동기적인 작업에 순서를 지키도록 해주고, 따라서 동기적이게 된다. 실행 순서를 보장해준다.
+async function 선언한 함수 안에서 await을 사용하면, 비동기 작업이 순서를 지키도록 해주고, 따라서 동기적이게 된다. 실행 순서를 보장해준다.
 ```javascript
 function printString(string){  
   return new Promise((resolve, reject) => setTimeout(  

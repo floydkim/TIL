@@ -1,6 +1,11 @@
-# Daily Algorithm
-19-05-13
-### Haker rank
+---
+title: 2019-05-13 Daily Algorithm
+date: 2019-05-13 20:57:21
+category: TIL
+---
+2019-05-13
+
+## Haker rank
 - `ar` : 양말의 색을 숫자로 표현한 어레이
 만약 [10, 20, 20, 10, 10, 30]이 주어졌다면, 같은 색 양말이 10 한 쌍, 20 한 쌍으로 총 두 쌍 존재하며 그 총 수를 리턴하는 문제.
 - `n`: 총 양말 수. 왜 준건지 모르겠다.
@@ -24,7 +29,7 @@ function sockMerchant(n, ar) {
 ```
 처음 생각했던 알고리즘에서 좀 고쳐서 for문 한번만으로 O(n) complexity 갖도록 풀었다.
 
-### codility
+## codility
 10진수 N이 주어지고 이걸 2진수로 표현했을때 1과 1 사이의 거리(binary gap)를 구한다. gap이 여럿 있다면, 가장 큰 gap을 정수로 리턴하는 문제.
 
 (ex) 10001001 이라면, gap은 3과 2가 있는데, 3을 리턴하면 된다.

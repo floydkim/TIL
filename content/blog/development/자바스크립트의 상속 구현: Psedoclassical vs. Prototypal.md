@@ -1,3 +1,10 @@
+---
+title: 'JavaScript의 상속 구현: Psedoclassical vs. Prototypal'
+date: 2019-03-16 19:59:12
+category: development
+---
+
+
 [이 글](http://theoryapp.com/javascript-inheritance-pseudoclassical-vs-prototypal/)의 러프한 번역입니다.
 
   
@@ -14,7 +21,7 @@ JS는  프로토타입  오리엔티드  랭귀지임. 이것은  다른  오브
 
 ## pseudoclassical Inheritance
 
-(주: class를 흉내낸다?)
+(주: pseudo-class-ical == class를 흉내낸다)
 
 constructor함수를 사용하며, new 키워드로 새 오브젝트를 만든다. .prototype 속성을 이용해 상속 체인을 형성한다. 컨스트럭터 함수는 prototype 속성을 가지며 이 속성은 모든 인스턴스에 상속된다.
 

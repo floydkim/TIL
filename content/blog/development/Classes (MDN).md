@@ -1,3 +1,9 @@
+---
+title: 'JavaScript의 Class'
+date: 2019-03-21 19:59:12
+category: development
+---
+
 # Classes
 [MDN : Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
