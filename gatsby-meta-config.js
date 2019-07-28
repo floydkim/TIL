@@ -1,8 +1,8 @@
 module.exports = {
   title: `Plactic Code`,
-  description: `웹 개발 기술과 개인의 발전에 관한 내용을 담고 있습니다.`,
+  description: `웹/앱 개발 기술과 개인의 발전에 관한 내용을 담고 있습니다.`,
   author: `Minchang Kim`,
-  introduction: `웹 개발자 김민창입니다! 좋은 하루 되세요!`,
+  introduction: `웹/앱 개발자 김민창입니다! 좋은 하루 되세요!`,
   siteUrl: `https://floydkim.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
