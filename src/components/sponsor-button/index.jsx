@@ -11,7 +11,7 @@ export const SponsorButton = ({ sponsorId }) => (
       href={`https://www.buymeacoffee.com/${sponsorId}`}
     >
       <img
-        src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg"
+        // src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg"
         alt="Buy me a coffee"
       />
       <span>Buy me a coffee</span>
