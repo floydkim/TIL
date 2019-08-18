@@ -3,6 +3,10 @@ import GitHubTheme from 'typography-theme-github'
 
 GitHubTheme.overrideThemeStyles = () => {
   return {
+    body: {
+      lineHeight: 1.5,
+    },
+
     a: {
       boxShadow: `none`,
       textDecoration: `none`,
@@ -19,13 +23,13 @@ GitHubTheme.overrideThemeStyles = () => {
 
     h1: {
       fontWeight: 800,
-      lineHeight: 1.2,
+      lineHeight: 1.8,
       fontFamily: 'Catamaran',
     },
 
     h2: {
       fontWeight: 700,
-      lineHeight: 1.2,
+      lineHeight: 1.8,
       marginTop: '56px',
       marginBottom: '20px',
       fontFamily: 'Catamaran',
