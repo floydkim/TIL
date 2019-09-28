@@ -13,7 +13,7 @@ export function Head({ description, lang, meta, keywords, title }) {
         return (
           <Helmet
             htmlAttributes={{
-              lang,
+              lang: 'ko',
             }}
             title={title}
             titleTemplate={`%s | ${data.site.siteMetadata.title}`}
