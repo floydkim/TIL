@@ -58,8 +58,7 @@ Fiber가 메모리 점유가 훨~씬 적음.
 
 스레드 서버와 다르게 fiber는 수십만개 만들어서 많은 요청을 동시처리 가능하다
 
-##   
-Coroutine이란 무엇인가?
+##   Coroutine이란 무엇인가?
 
 -   루틴의 로컬 상태를 유지하면서 제어를 반환했다가(suspend) 제어를 다시 획득(resume)하며 흐름을 이어갈 수 있는 제어장치
 -   제어 흐름에 관련된 용어(if, else)
@@ -95,14 +94,12 @@ Coroutine이란 무엇인가?
 
 (제어흐름을 위한 언어적요소 + 시스템적요소 = fiber)
 
-##   
-Java Fiber
+##   Java Fiber
 
 -   Java에선 Coroutine 지원 안함
 -   그러나 Quasar를 통해 가능
 
-##   
-Quasar
+##   Quasar
 
 -   Java에서 Fiber를 사용하게 만들어 주는 라이브러리
 -   JVM에서는 실행 상태 정보에 접근할 수 있도록 허용하지 않기 때문에 ..
