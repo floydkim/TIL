@@ -45,8 +45,6 @@ user space thread, lightweight thread라고 할 수 있다.
 
 ## Fiber와 Thread 비교
 
-![](https://soomgo.atlassian.net/wiki/download/attachments/932741516/image2019-11-27_21-24-35.png?version=1&modificationDate=1574857480680&cacheVersion=1&api=v2 "Soomgo Tech > Java에서 Fiber를 이용하여 동시성(concurrency) 프로그래밍 쉽게 하기 > image2019-11-27_21-24-35.png")
-
 fiber는 명시적으로 끝내고 다른쪽으로 넘겨야(yield) 넘어감. (스레드는 스케쥴러에 의해 강제로 다른 스레드로 전환)
 
   
@@ -113,7 +111,6 @@ Quasar
 
 ## Fiber 어디에 써봤나?
 
-![](https://soomgo.atlassian.net/wiki/download/attachments/932741516/image2019-11-27_21-30-6.png?version=1&modificationDate=1574857812293&cacheVersion=1&api=v2 "Soomgo Tech > Java에서 Fiber를 이용하여 동시성(concurrency) 프로그래밍 쉽게 하기 > image2019-11-27_21-30-6.png")
 
 실시간 게임 서버 엔진 Tardis
 
