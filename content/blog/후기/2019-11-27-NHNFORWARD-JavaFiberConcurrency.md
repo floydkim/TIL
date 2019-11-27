@@ -8,7 +8,7 @@ category: 후기
 
 # Java에서 Fiber를 이용하여 동시성(concurrency) 프로그래밍 쉽게 하기
 
-### (안성우)
+### (NHN 안성우)
 
 게임서버 개발
 
