@@ -1,5 +1,5 @@
 ---
-title: NHN FORWARD 2019 - PAYCO 매거진 서버 Kotlin 적용기(concurrency) 프로그래밍 쉽게 하기
+title: NHN FORWARD 2019 - PAYCO 매거진 서버 Kotlin 적용기
 date: 2019-11-27 21:52:23
 category: 후기
 ---
